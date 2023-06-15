@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kuharica/static/css/main.434ef09f.css",
+    "main.js": "/Kuharica/static/js/main.45772b68.js",
+    "index.html": "/Kuharica/index.html",
+    "main.434ef09f.css.map": "/Kuharica/static/css/main.434ef09f.css.map",
+    "main.45772b68.js.map": "/Kuharica/static/js/main.45772b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434ef09f.css",
+    "static/js/main.45772b68.js"
+  ]
+}
